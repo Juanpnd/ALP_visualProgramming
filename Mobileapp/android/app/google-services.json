@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494127827961",
+    "project_id": "joki-62341",
+    "storage_bucket": "joki-62341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494127827961:android:0610d862760773b926cb28",
+        "android_client_info": {
+          "package_name": "com.example.tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Yzj14Wnz0jFFMEH_Ikhn7gDHQmfYGuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
